@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingSample", "ImageProcessingSample\ImageProcessingSample.csproj", "{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Release|iPhone.Build.0 = Release|iPhone
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{7F74DC5E-1C21-4E5F-9A20-9EFA14AF972F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ImageProcessingSample\ImageProcessingSample.csproj
+	EndGlobalSection
+EndGlobal
